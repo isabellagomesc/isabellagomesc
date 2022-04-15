@@ -16,6 +16,8 @@ Estudante do Instituto Federal de São Paulo(IFSP)
   <img align="center" alt="Isa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Isa-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Isa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  
+     ![Snake animation](https://github.com/isabellagomesc/isabellagomesc/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ##
@@ -24,8 +26,6 @@ Estudante do Instituto Federal de São Paulo(IFSP)
   <a href="https://github.com/isabellagomesc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellagomesc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellagomesc&layout=compact&langs_count=7&theme=dark"/>
-    
-      ![Snake animation](https://github.com/isabellagomesc/isabellagomesc/blob/output/github-contribution-grid-snake.svg)
 </div>
    
 ##
