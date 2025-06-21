@@ -1,7 +1,8 @@
 ### Ooi! Sou a Isabella 👋
 
 ##
-Estudante do Instituto Federal de São Paulo(IFSP)
+Estudei noo Instituto Federal de São Paulo(IFSP)
+e agora sou estudante da Universidade Federal do ABC (UFABC)
 <img align="right" alt="Isa-pic" height="180" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/774002143702679603/964536647465185350/Imagem_-_Isa.png">
 
 ##
